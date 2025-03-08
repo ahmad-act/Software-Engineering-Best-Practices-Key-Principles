@@ -23,7 +23,7 @@ It covers essential methodologies, coding standards, architectural patterns, and
 
 ### Software Architecture & System Design
 - [Software Architecture vs. System Design](Software%20Architecture%20vs.%20System%20Design.md)
-- **Monolithic vs. Microservices Architecture**
+- [Software Architecture Patterns/Styles/Approach](Software%20Architecture%20&%20System%20Design/Software%20Architecture%20Patterns.md)
 - **Event-driven architecture**
 - **Scalability & load balancing strategies**
 - **Designing fault-tolerant and resilient systems**
