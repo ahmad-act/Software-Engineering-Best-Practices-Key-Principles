@@ -14,7 +14,8 @@ It covers essential methodologies, coding standards, architectural patterns, and
 - **UI/UX principles and accessibility standards**
 
 ### Backend Development Best Practices
-- **API design principles** (RESTful & GraphQL best practices)
+- **API design principles**
+  - [REST API URL Design Best Practices](REST%20API/API%20URL%20Design%20Best%20Practices.md)
 - **Database management** (normalization, indexing, caching)
 - **Authentication & authorization** (JWT, OAuth, role-based access control)
 - **Error handling & logging strategies**
