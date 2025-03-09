@@ -24,7 +24,7 @@ It covers essential methodologies, coding standards, architectural patterns, and
 ### Software Architecture & System Design
 - [Software Architecture vs. System Design](Software%20Architecture%20vs.%20System%20Design.md)
 - [Software Architecture Patterns/Styles/Approach](Software%20Architecture%20&%20System%20Design/Software%20Architecture%20Patterns.md)
-- **Event-driven architecture**
+- [Checklist of Software Architecture Patterns to find appropriate design](Software%20Architecture%20&%20System%20Design/Checklist%20of%20Software%20Architecture%20Patterns%20to%20find%20appropriate%20design.md)
 - **Scalability & load balancing strategies**
 - **Designing fault-tolerant and resilient systems**
 - **Database sharding & replication**
